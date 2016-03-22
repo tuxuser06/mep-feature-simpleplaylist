@@ -1,0 +1,26 @@
+/*
+    Document        : mep-feature-simpleplaylist.css
+    Author          : Reimar Imhof
+    Original Author : Andrew Berezovsky <andrew.berezovsky@gmail.com>
+    Original Author : Junaid Qadir Baloch <shekhanzai.baloch@gmail.com>
+*/
+
+
+/* Start: Previous */
+.mejs-controls .mejs-prevtrack button {
+  background: transparent url(controls-simpleplaylist.svg) no-repeat;
+  background-position: 0 -16px;
+}
+.no-svg .mejs-controls .mejs-prevtrack button {
+  background-image: url(controls-simpleplaylist.png);
+}
+/* End: Previous */
+
+/* Start: Next */
+.mejs-controls .mejs-nexttrack button {
+  background: transparent url(controls-simpleplaylist.svg) no-repeat;
+}
+.no-svg .mejs-controls .mejs-nexttrack button {
+  background-image: url(controls-simpleplaylist.png);
+}
+/* End: Next */
