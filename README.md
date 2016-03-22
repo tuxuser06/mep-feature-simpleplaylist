@@ -29,7 +29,7 @@ Usage:
 5 - Add this code including playlist to your page:
 
     <script>
-var playerUsingPlayList = new MediaElementPlayer("#mp3sUsingPlayList", {
+	var playerUsingPlayList = new MediaElementPlayer("#mp3sUsingPlayList", {
             features: ['playlistfeature', 'prevtrack', 'playpause', 'nexttrack', 'current', 'progress', 'duration', 'volume'],
 	    playlistElements: [{source: 'file1.mp3'}, {source: 'file2.mp3'}, {source: 'file3.mp3'}]
             });
