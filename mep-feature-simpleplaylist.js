@@ -1,6 +1,6 @@
 /**
  * @file MediaElement Playlist Feature (plugin).
- * @author Reimar Imhof
+ * @author Reimar Imhof <tuxuser06@quantentunnel.de>
  * @author Original author: Andrew Berezovsky <andrew.berezovsky@gmail.com>
  * Twitter handle: duozersk
  * @author Original author: Junaid Qadir Baloch <shekhanzai.baloch@gmail.com>
